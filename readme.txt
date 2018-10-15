@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 create a new branch.
 add merge.
+push to github
